@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @shocklikealulz or @Wisdomguy if you prefer.
-- 👻 A Little Ghost since 2008 👻
+- 👻 A Little Ghost since 2009 👻
 - 👨🏽‍💻  Scripter and L4mer for passion 👨🏽‍💻
-- 👨🏽‍💻 My focus are on: Security, Scripting in Py/Ruby and commons shell languages but especially in Onion Protocol and TOR Project.
-- 👀 Just a lamer that loves technology.
-- ✨ You can reach me on https://t.me/Wisdomguy22 - or brittaly@protonmail.com
-- ✨ About my private Repo's im not going to publish anything before finished. 
+- 👨🏽‍💻  Opsec is a must so i changed frequently my identity to protect myself and my friends, btw, who know me, know me. 👨🏽‍💻 
+- 👨🏽‍💻 My focus are on: Security, Scripting in Py/Ruby and commons shell languages but especially in Onion Protocol and TOR Project. 👨🏽‍💻 
+- 👀 Just a lamer that loves technology. 👀 
+- ✨ You can reach me on https://t.me/Wisdomguy22 - or brittaly@protonmail.com ✨
+- ✨ About my private Repo's im not going to publish anything before finished. ✨
 - ✨ Old school r0x ✨
+🔥🔥🔥 "User-Agent: () { :; }; /been/busted" http://maresciallononciprendi.gov 🔥🔥🔥
