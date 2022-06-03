@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @shocklikealulz
-- 👀 Just a lamer in a lamer world. 
-- 
-
-<!---
-shocklikealulz/shocklikealulz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @shocklikealulz or @Wisdomguy if you prefer.
+- 👻 A Little Ghost since 2008 👻
+- 👨🏽‍💻  Scripter and L4mer for passion 👨🏽‍💻
+- 👨🏽‍💻 My focus are on: Security, Scripting in Py/Ruby and commons shell languages but especially in Onion Protocol and TOR Project.
+- 👀 Just a lamer that loves technology.
+- ✨ You can reach me on https://t.me/Wisdomguy22 - or brittaly@protonmail.com
+- ✨ About my private Repo's im not going to publish anything before finished. 
+- ✨ Old school r0x ✨
